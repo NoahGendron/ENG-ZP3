@@ -11,7 +11,7 @@ course_description: "In this course you shall learn the ways of which certain or
 course_semester: "Fall 2023"
 
 baseurl: "/ENG-ZP3" # the subpath of your site, e.g. /blog/
-url: "https://noahgendron.github.io/" # the base hostname & protocol for your site
+url: "https://noahgendron.github.io/ENG-ZP3/" # the base hostname & protocol for your site
 
 schoolname: "Crunchool"
 schoolurl: "https://noahgendron.github.io/ENG-ZP3/"
