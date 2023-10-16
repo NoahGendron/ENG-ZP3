@@ -1,7 +1,7 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Developper Abuse
+course_description: "In this course you shall learn the ways of which certain organizations may choose to abuse and exploit their employees in the Computer Science field."
+course_semester: "Fall 2023"
 
 baseurl: "/ENG-ZP3" # the subpath of your site, e.g. /blog/
 url: "https://noahgendron.github.io/" # the base hostname & protocol for your site
