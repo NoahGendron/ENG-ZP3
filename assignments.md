@@ -3,4 +3,4 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+You can complete your assignments here. Read each lecture before doing the corresponding assignment. 
