@@ -5,7 +5,7 @@ title: Introduction to Crunch Culture
 summary: Short introduction to crunch culture and how it is initiated.
 thumbnail: /static_files/presentations/lec.jpg
 
-text: HELELEAOSDOASO
+text: test
 notes: /static_files/presentations/intro.html
 
 links: 
