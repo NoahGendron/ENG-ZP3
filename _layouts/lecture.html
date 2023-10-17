@@ -13,6 +13,10 @@ title: page.title
 
   <h3>Lecture</h3>
 
+  <article class="post-content">
+    {{ content }}
+  </article>
+  
   <div>
     {% if page.text %}
     <p> {{ page.text }} </p>
@@ -25,8 +29,6 @@ title: page.title
   </div>
 
   <br />
-  <article class="post-content">
-    {{ content }}
-  </article>
+  
 
 </div>

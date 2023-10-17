@@ -6,6 +6,7 @@ summary: Short introduction to crunch culture and how it is initiated.
 thumbnail: /static_files/presentations/lec.jpg
 
 text: HELELEAOSDOASO
+notes: /static_files/presentations/intro.html
 
 links: 
     - url: /static_files/presentations/intro.html
@@ -14,20 +15,6 @@ links:
       name: Videos
 ---
 
-**SUg**
----
-layout: lecture
----
-
-{{ content }}
-
-
-HELLEOASDKASOIDASI
-
-<br>
-<hr>
-asd
-as
 
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

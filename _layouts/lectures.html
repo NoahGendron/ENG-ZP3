@@ -19,13 +19,11 @@ layout: page
         <span style="font-weight: bold;">{{ lecture.title }}</span><br>
         <strong>Summary:</strong> {{ lecture.summary }}
         <br/>
-        <li class="archiveposturl" style="background: transparent">
-          <span><a href="{{ lecture.url | prepend: site.baseurl}}">{{ lecture.title }}</a></span>
-        </li>
-        utfyt
-        <span><a href="{{ lecture.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
+        
         <strong>
-        {% include lecture_links.html lecture=lecture %}
+          <span><a href="{{ lecture.notes | prepend: site.baseurl}}">Lecture</a></span>
+
+        <!-- {% include lecture_links.html lecture=lecture %} -->
         </strong>
 
         <!-- {% if lecture.content != '' %}
@@ -39,13 +37,3 @@ layout: page
 </li>
 {% endfor %}
 </ul>
-
-
-<ul id="archive">
-  {% for asg in site.lectures %}
-        <li class="archiveposturl" style="background: transparent">
-          <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
-  <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
-        </li>
-  {% endfor %}
-  </ul>
