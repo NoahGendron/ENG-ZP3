@@ -19,6 +19,7 @@ layout: page
         <span style="font-weight: bold;">{{ lecture.title }}</span><br>
         <strong>Summary:</strong> {{ lecture.summary }}
         <br/>
+        <span><a href="{{ lecture.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
         <strong>
         {% include lecture_links.html lecture=lecture %}
         </strong>

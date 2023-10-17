@@ -2,8 +2,8 @@
 type: assignment
 date: 2023-10-16T4:00:00+4:30
 title: 'Assignment #1 - Introduction to Crunch'
-quizz: /static_files/assignments/asg.pdf
-lecture: /lectures/intro.md
+quizz: /static_files/assignments/IntroAssignmentQuizz.html
+lecture: /lectures/intro.html
 due_event: 
     type: due
     date: 2023-10-25T4:00:00+4:30
