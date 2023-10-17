@@ -14,7 +14,20 @@ links:
       name: Videos
 ---
 
+**SUg**
+---
+layout: lecture
+---
 
+{{ content }}
+
+
+HELLEOASDKASOIDASI
+
+<br>
+<hr>
+asd
+as
 
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
