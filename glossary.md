@@ -3,7 +3,7 @@ layout: page
 title: Glossary
 permalink: /glossary/
 ---
-
+[IN PROGRESS]
 <!--- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
 ## Book
