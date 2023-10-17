@@ -19,23 +19,21 @@ layout: page
         <span style="font-weight: bold;">{{ lecture.title }}</span><br>
         <strong>Summary:</strong> {{ lecture.summary }}
         <br/>
-        <div>
-          <p>
-            <a href="{{ lecture.url | prepend: site.baseurl}}">ALOOOOOOOOOOOO TESTTYYYY  {{ lecture.url }} </a>
-          </p>
-        </div>
-        asdjasdij
+        <li class="archiveposturl" style="background: transparent">
+          <span><a href="{{ lecture.url | prepend: site.baseurl}}">{{ lecture.title }}</a></span>
+        </li>
+        utfyt
         <span><a href="{{ lecture.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
         <strong>
         {% include lecture_links.html lecture=lecture %}
         </strong>
 
-        {% if lecture.content != '' %}
+        <!-- {% if lecture.content != '' %}
         <br/>
         <div class="markdown-content" style="margin-top: 3px;">
         {{ lecture.content }}
         </div>
-        {% endif %}
+        {% endif %} -->
     </div>
 </div>
 </li>

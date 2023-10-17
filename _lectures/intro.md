@@ -13,6 +13,9 @@ links:
     - url: /static_files/assignments/IntroAssignQuizz.html
       name: Videos
 ---
+
+
+
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com) -->
