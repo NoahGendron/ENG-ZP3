@@ -1,0 +1,32 @@
+---
+layout: default
+title: page.title
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">Released on {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p> <br>
+    <p class="post-meta">{{ page.summary }}</p> <br>
+  </header>
+
+  <h3>Lecture</h3>
+
+  <div>
+    {% if page.text %}
+    <p> {{ page.text }} </p>
+    {% endif %}
+
+
+    <p style="font-weight: bold">Links <br>
+    [<a href="{{ page.links.Videos | prepend: site.baseurl }}"></a>]
+    </p>
+  </div>
+
+  <br />
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

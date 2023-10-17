@@ -51,7 +51,7 @@ baseurl: "/ENG-ZP3" # the subpath of your site, e.g. /blog/
 url: "https://noahgendron.github.io/ENG-ZP3/" # the base hostname & protocol for your site
 
 schoolname: "Crunchool"
-schoolurl: "https://noahgendron.github.io/ENG-ZP3/"
+# schoolurl: "https://noahgendron.github.io/ENG-ZP3/"
 twitter_username: McRealPerson 
 
 address: |
