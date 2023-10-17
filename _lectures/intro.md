@@ -11,8 +11,7 @@ notes: /static_files/presentations/intro.html
 links: 
     - url: /static_files/presentations/intro.html
       name: Notes
-    - url: /static_files/assignments/IntroAssignQuizz.html
-      name: Videos
+    
 ---
 
 
