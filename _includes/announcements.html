@@ -19,7 +19,9 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                New Lecture: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+            {{ n.title }}
+            {% include lecture_links.html lecture=n %}
+                New Lecture: [<a href="{{ n.links.notes | prepend: site.baseurl }}">{{ n.title }}</a>]
          
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
