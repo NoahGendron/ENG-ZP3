@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page 
 title: page.title
 ---
 
@@ -16,16 +16,12 @@ title: page.title
   <article class="post-content">
     {{ content }}
   </article>
-  
+
   <div>
     {% if page.text %}
     <p> {{ page.text }} </p>
     {% endif %}
 
-
-    <p style="font-weight: bold">Links <br>
-    [<a href="{{ page.links.Videos | prepend: site.baseurl }}"></a>]
-    </p>
   </div>
 
   <br />

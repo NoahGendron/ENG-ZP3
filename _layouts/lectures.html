@@ -21,7 +21,13 @@ layout: page
         <br/>
         
         <strong>
-          <span><a href="{{ lecture.notes | prepend: site.baseurl}}">Lecture</a></span>
+          <span style="text-decoration: underline;"><a href="{{ lecture.url | prepend: site.baseurl}}">test</a></span>
+
+        <!-- {% include lecture_links.html lecture=lecture %} -->
+        </strong>
+
+        <strong>
+          <span style="text-decoration: underline;"><a href="{{ lecture.notes | prepend: site.baseurl}}">Lecture</a></span>
 
         <!-- {% include lecture_links.html lecture=lecture %} -->
         </strong>
