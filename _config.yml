@@ -3,11 +3,48 @@ course_name: Developper Abuse
 course_description: "In this course you shall learn the ways of which certain organizations may choose to 
                     abuse and exploit their employees in the Computer Science field.
                     
-                    `<br>`  \n \n 
+                    <br>  <br> 
+                    
+                    <strong>English</strong> <br> <br>
+
                     With the rise of technology during the past decade, the field of computer science has been steadily expanding and will surely not 
                     cease soon. Consequently, the number of jobs in the industry have been on the rise as well, giving millions of
-                     programmers and developer full-time employment. Unfortunately, that doesn’t mean that the working conditions 
-                     in the profession are ideal . Specifically, in the non-unionized computer science fields, where unexpected issues are frequent, it becomes difficult to reasonably estimate the time needed to complete a project, or if the project is even possible. This leads to employees or employers forcing themselves or forcing others to work much more than they should and do a ridiculous amount of overtime. This phenomenon happens to be the focal point of this project, targeting Crunch, or Crunch Culture, and by extension, the exploitation of programmers . However, there exist many other problems beyond Crunch, like the harassment of developers in the workplace, especially towards women, which can be explained without a doubt by the high male demographics . These problems may be known by some, but “[…] there doesn’t exist a coherent, robust, and complete study gathering all the information and linking all of it together […] “. The goal of this project is therefore to gather all these issues together and create a public repertory containing detailed in-depth documentation of coherent and comprehensible texts on the subject."
+                    programmers and developer full-time employment. Unfortunately, that doesn’t mean that the working conditions 
+                    in the profession are ideal . Specifically, in the non-unionized computer science fields, where unexpected 
+                    issues are frequent, it becomes difficult to reasonably estimate the time needed to complete a project, or if 
+                    the project is even possible. This leads to employees or employers forcing themselves or forcing others to 
+                    work much more than they should and do a ridiculous amount of overtime. This phenomenon happens to be the 
+                    focal point of this project, targeting Crunch, or Crunch Culture, and by extension, the exploitation of 
+                    programmers . However, there exist many other problems beyond Crunch, like the harassment of developers in the
+                     workplace, especially towards women, which can be explained without a doubt by the high male demographics. 
+                     These problems may be known by some, but “[…] there doesn’t exist a coherent, robust, and complete study 
+                     gathering all the information and linking all of it together […] “. The goal of this project is therefore to
+                      gather all these issues together and create a public repertory containing detailed in-depth documentation 
+                      of coherent and comprehensible texts on the subject.
+                     
+                    <br> <br>
+
+                    <strong>Français</strong> <br> <br>
+
+                    Avec l’essor de la technologie au cours de la dernière décennie, le domaine de l’informatique ne cesse de 
+                    grandir et ne va sûrement pas cesser de si tôt. Conséquemment, le nombre d’emplois augmente aussi dans 
+                    l’industrie, faisant des millions de programmeurs et développeurs des employés à temps plein. 
+                    Malheureusement, cela ne veut pas dire que les conditions de travail du métier sont autant idéales qu’on 
+                    pourrait le souhaiter. Plus spécifiquement, dans les domaines 
+                    d’informatique non syndiqués où les imprévus sont courants, il est difficile de raisonnablement estimer le 
+                    temps que peut prendre un projet, ou si un projet est même possible. Cela engendre les employés ou les 
+                    employeurs à se forcer ou à forcer les autres à travailler beaucoup plus qu’ils devraientet à faire un 
+                    nombre ridicule d’heures supplémentaires. Ce phénomène se trouve à être un point central de ce projet. 
+                    Le Crunch, la culture de Crunch (ou Crunch Culture) et donc, par extension, l’exploitation des programmeurs 
+                    passionnés de l’informatique, sont particulièrement visées. Cependant, il existe bien d’autres problèmes 
+                    au-delà du Crunch, comme le harcèlement dans le milieu de travail des développeurs, en particulier 
+                    envers les femmes, qui s’explique sans doute par la démographique de développeurs majoritairement 
+                    composée d’hommes. Ces problèmes sont peut-être déjà connus par certains, mais « […] il n’existe pas 
+                    d’étude cohérente, robuste et complète rassemblant toute l’information et liant le tout ensemble ». 
+                    Le but de ce projet est donc de rassembler tous ses problèmes ensemble et de créer un répertoire public 
+                    contenant une documentation détaillée de textes cohérents et compréhensibles à tous qui expliquent le sujet 
+                    en profondeur."
+
 course_semester: "Fall 2023"
 
 baseurl: "/ENG-ZP3" # the subpath of your site, e.g. /blog/
