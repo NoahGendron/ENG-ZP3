@@ -223,6 +223,7 @@ const loadNewQuestion = async (adjustment) => {
         // Displays previous questions. Does nothing if no questions to load.
         if (adjustment == `previous-question-load`) {
             loadQuestion(quiz.questions[currentQuestionIndex])
+            cr_ContinueButton();
             // Displays next question. Does nothing if no questions to load.
         } else if (adjustment == `next-question-load` && currentQuestionIndex <= quiz.questions.length) {
             loadQuestion(quiz.questions[currentQuestionIndex])
