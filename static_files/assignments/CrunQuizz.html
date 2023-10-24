@@ -2,6 +2,91 @@
 layout: page
 ---
 
+<head>
+    <link rel="stylesheet" type="text/css" href="./quizz.css">
+</head>
+
+<body>
+    <div class="quiz-page-template-container">
+        <div class="quiz-header-container">
+            <div class="quiz-name-text-container">
+                <span class="quiz-name-text"> Crunch Quizz </span>
+            </div>
+           
+        </div>
+        <div class="quiz-main-page" id="quiz-main-page">
+            <div class="quiz-question-container" id="quiz-question-container">
+                <div class="quiz-question-text-container" id="quiz-question-text-container">
+                </div>
+                <div class="quiz-answer-text-container" id="quiz-answer-text-container">
+                    <ul class="quiz-answer-list" id="quiz-answer-list">
+                    </ul>
+                </div>
+            </div>
+            <div class="question-iteration-container">
+                <div class="progress-bar-container">
+                    <span class="progress-bar-text" id="progress-bar-text"></span>
+                    <div class="progress quiz-completion-outer-progress-bar" style="height: 3px;">
+                        <div class="quiz-completion-inner-progress-bar" id="quiz-progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+                <div class="question-iteration-container-single" id="previous-question-load">
+                    <span class="question-iteration-icon"> ^ </span>
+                </div>
+                <div class="icon-flipped question-iteration-container-single" id="next-question-load">
+                    <span class="question-iteration-icon"> ^ </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        const quiz = {
+    "name": "Crunch Quiz",
+    "questions": [{
+            "type": "single",
+            "question": "Which is not a step in the scientific method?",
+            "answers": ["Ask question", "Form hypothesis", "Replicate results", "Collect data", "Analysis"],
+            "entered": [],
+            "correct": "Replicate results"
+        },
+        {
+            "type": "single",
+            "question": "_____ explanations for aggressive behavior include genetic predisposition, high testosterone level and frontal lobe damage.",
+            "answers": ["Social", "Biological", "Cross-cultural", "Cognitive", "Psychoactive"],
+            "entered": [],
+            "correct": "Biological"
+        },
+        {
+            "type": "single",
+            "question": "Social identity refers to _____.",
+            "answers": ["Our membership in particular groups, which largely determines our everyday interactions", "Prejudices that are based on personal experiences that occur during development", "The drive for success that motivates people to form prejudices about their competitors", "All of the answers are correct."],
+            "entered": [],
+            "correct": "Replicate results"
+        },
+        {
+            "type": "multiple",
+            "question": "The belief that everyone is good and naturally altruistic is an example of which psychological perspective?",
+            "answers": ["Biological", "Cognitive", "Behavioral", "Evolutionary", "Humanistic"],
+            "entered": [],
+            "correct": "Humanistic"
+        },
+        {
+            "type": "short",
+            "question": "Please describe in two sentences or less what psychoanalysis is.",
+            "entered": [],
+            "answers": []
+        },
+        {
+            "type": "long",
+            "question": "In three paragraphs, describe Freud's theory of id, ego, and superego. Use examples as needed.",
+            "entered": [],
+            "answers": []
+        }
+    ]
+}
+    </script>
+    <script type="text/javascript" src="./quizz.js"></script>
+</body>
 
 
 

@@ -14,7 +14,7 @@ div:focus {
     border: 0;
     box-shadow: initial !important;
     background: none;
-    color: rgb(112, 185, 199);
+    color: rgb(193, 39, 39);
 }
 
 /* Experimental fading */
@@ -82,13 +82,13 @@ div[contenteditable] {
 }
 
 .selected-answer {
-    background-color: rgba(115, 190, 200, 0.4);
-    color: #0c6165;
-    box-shadow: rgba(62, 96, 138, 1) 0px 0px 0px 1px inset;
+    background-color: rgba(200, 115, 115, 0.4);
+    color: #650c0c;
+    box-shadow: rgb(138, 62, 62) 0px 0px 0px 1px inset;
 }
 
 .unselected-answer {
-    box-shadow: rgba(115, 190, 200, 0.6) 0px 0px 0px 1px inset;
+    box-shadow: rgba(200, 115, 115, 0.6) 0px 0px 0px 1px inset;
 }
 
 .radian-answer-border {
@@ -127,7 +127,7 @@ div[contenteditable] {
 }
 
 .quiz-header-container {
-    background-color: rgba(205, 234, 239, 0.9);
+    background-color: rgba(239, 205, 205, 0.9);
     position: relative;
     margin-bottom: 3em;
     height: 50px;
@@ -145,7 +145,7 @@ div[contenteditable] {
 }
 
 .quiz-name-text {
-    color: rgb(56, 189, 207);
+    color: rgb(207, 56, 56);
     font-size: 19px;
 }
 
@@ -182,7 +182,7 @@ div[contenteditable] {
 }
 
 .quiz-answer-text-container-single {
-    color: rgb(115, 190, 200);
+    color: rgb(200, 115, 115);
     opacity: 1;
     will-change: opacity;
     height: auto;
@@ -197,7 +197,7 @@ div[contenteditable] {
 }
 
 .quiz-answer-text-container-single:hover {
-    background-color: rgba(115, 190, 200, 0.3);
+    background-color: rgba(200, 115, 115, 0.3);
     cursor: pointer;
 }
 
@@ -248,7 +248,7 @@ div[contenteditable] {
     font-size: 12px;
     line-height: 16px;
     font-family: sans-serif;
-    border: 1px solid rgba(115, 190, 200, 0.6);
+    border: 1px solid rgba(150, 86, 86, 0.6);
     font-weight: bold;
     display: flex;
     align-self: flex-start;
@@ -263,10 +263,10 @@ div[contenteditable] {
     line-height: 40px;
     background: 0;
     border: 0px;
-    border-bottom: 1px solid rgba(88, 176, 181, 0.5);
+    border-bottom: 1px solid rgba(181, 88, 88, 0.5);
     border-radius: 0px;
     font-size: 30px;
-    color: rgba(121, 193, 207, 0.6);
+    color: rgba(207, 121, 121, 0.6);
     padding-left: 0px;
 }
 
@@ -313,7 +313,7 @@ div[contenteditable] {
     border-radius: .2rem;
     font-size: 20px;
     color: white;
-    background-color: #BBE0E5;
+    background-color: #e5bbbb;
     border: 0px;
     display: inline-block;
     font-weight: 400;
@@ -325,7 +325,7 @@ div[contenteditable] {
 
 .question-iteration-container-single:hover {
     cursor: pointer;
-    background: #C5E5E9;
+    background: #e9c5c5;
 }
 
 .progress-bar-container {
@@ -337,11 +337,11 @@ div[contenteditable] {
 
 .progress-bar-text {
     font-size: 14px;
-    color: #c8e4e8;
+    color: #e8c8c8;
 }
 
 .quiz-completion-outer-progress-bar {
-    background-color: #bfdfe3;
+    background-color: #e3bfbf;
     display: flex;
     overflow: hidden;
     font-size: .75rem;
@@ -349,7 +349,7 @@ div[contenteditable] {
 }
 
 .quiz-completion-inner-progress-bar {
-    background-color: rgb(62, 162, 174);
+    background-color: rgb(174, 62, 62);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -360,13 +360,13 @@ div[contenteditable] {
 }
 
 .unselected-answer-button {
-    background-color: rgba(241, 249, 250, 1);
-    color: rgb(115, 190, 200);
+    background-color: rgb(250, 241, 241);
+    color: rgb(200, 115, 115);
 }
 
 .selected-answer-button {
     color: rgba(241, 249, 250, 1);
-    background-color: rgb(115, 190, 200);
+    background-color: rgb(200, 115, 115);
 }
 
 .quiz-continue-button {
@@ -377,7 +377,7 @@ div[contenteditable] {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 12px 0px;
     min-height: 40px;
     background-color: #bbe0e5;
-    color: #2d6c75;
+    color: #752d2d;
     outline: none;
     margin: 0px;
     padding: 6px 14px;
@@ -389,13 +389,13 @@ div[contenteditable] {
 }
 
 .quiz-continue-button:hover {
-    background-color: #8abec5;
+    background-color: #c58a8a;
 }
 
 .quiz-continue-text {
     font-size: 13px;
     margin-left: 10px;
-    color: #51c5d4;
+    color: #d45151;
 }
 
 .question-text-form {
