@@ -197,7 +197,7 @@ div[contenteditable] {
 }
 
 .quiz-answer-text-container-single:hover {
-    background-color: rgba(200, 115, 115, 0.3);
+    background-color: rgb(255, 0, 0);
     cursor: pointer;
 }
 
