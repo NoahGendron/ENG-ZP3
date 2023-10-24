@@ -50,13 +50,13 @@ course_semester: "Fall 2023"
 baseurl: "/ENG-ZP3" # the subpath of your site, e.g. /blog/
 url: "https://noahgendron.github.io/ENG-ZP3/" # the base hostname & protocol for your site
 
-schoolname: "Crunchool"
+schoolname: "Crunschool"
 # schoolurl: "https://noahgendron.github.io/ENG-ZP3/"
 twitter_username: McRealPerson 
 
 address: |
     School of Crunchy Development
-    Crunchool
+    Crunschool
     Quebec
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
