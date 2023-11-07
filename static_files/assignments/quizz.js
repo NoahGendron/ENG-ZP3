@@ -208,6 +208,8 @@ const ShowHideContinueButton = (question) => {
     }
 }
 
+let resultShown = false;
+
 // Function to load next question & possible answers in object
 const loadNewQuestion = async (adjustment) => {
     // Saves written answers before moving on to next question
@@ -229,12 +231,14 @@ const loadNewQuestion = async (adjustment) => {
             loadQuestion(quiz.questions[currentQuestionIndex])
         }
     }
-    else {
-        console.log("Over");
+    else if (!resultShown) {
+        resultShown = true;
+
         let parent = document.getElementById(`quiz-question-container`)
         let result = getQuizzResult();
         let resultDiv = document.createElement("div");
-
+        resultDiv.classList.add("quiz-question-text-item");
+        
         if (result >= 60) {
             resultDiv.innerHTML =  `Congratulations! You passed the quizz with ${result}%!`
         } else {
