@@ -231,9 +231,18 @@ const loadNewQuestion = async (adjustment) => {
     }
     else {
         console.log("Over");
+        let parent = document.getElementById(`quiz-question-container`)
+        let result = getQuizzResult();
+        let resultDiv = document.createElement("div");
 
-        console.log(getQuizzResult());
-        
+        if (result >= 60) {
+            resultDiv.innerHTML =  `Congratulations! You passed the quizz with ${result}%!`
+        } else {
+            resultDiv.innerHTML =  `You failed the quizz with ${result}%`
+        }
+        parent.append(resultDiv)
+       // continueDIV.append(resultDiv);
+
     }
 }
 
