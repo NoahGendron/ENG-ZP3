@@ -229,6 +229,32 @@ const loadNewQuestion = async (adjustment) => {
             loadQuestion(quiz.questions[currentQuestionIndex])
         }
     }
+    else {
+        console.log("Over");
+
+        console.log(getQuizzResult());
+        
+    }
+}
+
+const getQuizzResult = () => {
+    let result = 0;
+    let nbQuestions = 0;
+    
+    quiz.questions.forEach(question => {
+        nbQuestions++;
+
+        if (question.entered[0] == question.answers[0]) {
+            console.log("Correct!");
+            result++;
+        }
+        else {
+            console.log("Incorrect!");
+        }
+
+    });
+
+    return result / nbQuestions * 100;
 }
 
 // Checks if we have reached the first or last question
