@@ -4,8 +4,19 @@ title: Glossary
 permalink: /glossary/
 ---
 
+
 <dl>
- <dt id="Developer">Developer</dt>
+ <dt id="Crunch"><a href="/ENG-ZP3/static_files/presentations/intro.html#Crunch">Crunch</a></dt>
+ <dd>Crunch is the action of pushing yourself for long periods of time, usually to meet a specific deadline.</dd>
+</dl>
+
+<dl>
+ <dt id="CrunchCulture"><a href="/ENG-ZP3/static_files/presentations/intro.html#CrunchCulture">Crunch Culture</a></dt>
+ <dd>Crunch Culture is a shared mindset that Crunch is not only okay, but also expected from people.</dd>
+</dl>
+
+<dl>
+ <dt id="Developer"><a href="/ENG-ZP3/static_files/presentations/intro.html#Developer">Developer</a></dt>
  <dd>Definition</dd>
 </dl>
 
