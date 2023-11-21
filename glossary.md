@@ -6,6 +6,11 @@ permalink: /glossary/
 
 
 <dl>
+ <dt id="Bugs"><a href="/ENG-ZP3/static_files/presentations/consequences.html#Bugs">Bugs</a></dt>
+ <dd>Bugs are a fault in an application, game or website, usually caused by a programming oversight, that can affect users' experiences in unexpected and/or unwanted ways.</dd>
+</dl>
+
+<dl>
  <dt id="Crunch"><a href="/ENG-ZP3/static_files/presentations/intro.html#Crunch">Crunch</a></dt>
  <dd>Crunch is the action of pushing yourself for long periods of time, usually to meet a specific deadline.</dd>
 </dl>
@@ -17,7 +22,12 @@ permalink: /glossary/
 
 <dl>
  <dt id="Developer"><a href="/ENG-ZP3/static_files/presentations/intro.html#Developer">Developer</a></dt>
- <dd>Definition</dd>
+ <dd>Developers are the people who work on implementing features into a project to reach a final product, often demanded by product owner.</dd>
+</dl>
+
+<dl>
+ <dt id="PO"><a href="/ENG-ZP3/static_files/presentations/consequences.html#PO">Product owner</a></dt>
+ <dd>The product owner is the individual who requests specific features to be implemented into a product's design. This product is the final result of a team's development on a project. The product owner can be a client, an investor, or even your boss.</dd>
 </dl>
 
 
