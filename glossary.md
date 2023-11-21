@@ -3,7 +3,12 @@ layout: page
 title: Glossary
 permalink: /glossary/
 ---
-[IN PROGRESS]
+
+<dl>
+ <dt id="Developer">Developer</dt>
+ <dd>Definition</dd>
+</dl>
+
 
 <h2>Sources</h2>
 <hr>
