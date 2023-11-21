@@ -46,10 +46,6 @@ This involves the creation of a list of features decided by the <a href="#PO">pr
  When companies utilize their own engines, these may also be in development while developers work on them.</dd>
 </dl>
 
-<dl>
- <dt id="PO"><a href="/ENG-ZP3/static_files/presentations/consequences.html#PO">Product owner</a></dt>
- <dd>The product owner is the individual who requests specific features to be implemented into a product's design. This product is the final result of a team's development on a project. The product owner can be a client, an investor, or even your boss.</dd>
-
 
 <dl>
  <dt id="PO"><a href="/ENG-ZP3/static_files/presentations/consequences.html#PO">Product owner</a></dt>
