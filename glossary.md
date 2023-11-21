@@ -4,6 +4,11 @@ title: Glossary
 permalink: /glossary/
 ---
 
+<dl>
+ <dt id="Agile"><a href="/ENG-ZP3/static_files/presentations/consequences.html#Agile">Agile software development</a></dt>
+ <dd>Agile software development is a methodology, a structure that encapsulates the ways in which developers work on the implementation of specific features. 
+This involves the creation of a list of features decided by the <a href="#PO">product owner</a>, which will be implemented over the course of a sprint, which lasts a specific amount of time, with no possibility of delay.</dd>
+</dl>
 
 <dl>
  <dt id="Bugs"><a href="/ENG-ZP3/static_files/presentations/consequences.html#Bugs">Bugs</a></dt>
@@ -26,8 +31,35 @@ permalink: /glossary/
 </dl>
 
 <dl>
+ <dt id="Feature"><a href="/ENG-ZP3/static_files/presentations/intro.html#Developer">Feature</a></dt>
+ <dd>Developers are the people who work on implementing features into a project to reach a final product, often demanded by product owner.</dd>
+</dl>
+
+<dl>
+ <dt id="Implement"><a href="/ENG-ZP3/static_files/presentations/consequences.html#Implement">Implement</a></dt>
+ <dd>Implementation is the action of completing a feature and incorporating it into a final product. During a <a href="#Sprint">sprint</a>'s </dd>
+</dl>
+
+<dl>
+ <dt id="Engine"><a href="/ENG-ZP3/static_files/presentations/consequences.html#Engine">Engine</a></dt>
+ <dd>An engine represents what tools and software developers use to work on a project. It is the framework with which they work to implement features. 
+ When companies utilize their own engines, these may also be in development while developers work on them.</dd>
+</dl>
+
+<dl>
  <dt id="PO"><a href="/ENG-ZP3/static_files/presentations/consequences.html#PO">Product owner</a></dt>
  <dd>The product owner is the individual who requests specific features to be implemented into a product's design. This product is the final result of a team's development on a project. The product owner can be a client, an investor, or even your boss.</dd>
+
+
+<dl>
+ <dt id="PO"><a href="/ENG-ZP3/static_files/presentations/consequences.html#PO">Product owner</a></dt>
+ <dd>The product owner is the individual who requests specific features to be implemented into a product's design. This product is the final result of a team's development on a project. 
+ The product owner may be a client, an investor, or your company boss.</dd>
+</dl>
+
+<dl>
+ <dt id="Sprint"><a href="/ENG-ZP3/static_files/presentations/consequences.html#Sprint">Sprint</a></dt>
+ <dd>A sprint represents a time frame developers are given to implement list of <a href="#Feature">features</a>.</dd>
 </dl>
 
 
