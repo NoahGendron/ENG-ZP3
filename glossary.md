@@ -89,4 +89,29 @@ This involves the creation of a list of features decided by the <a href="#PO">pr
             https://www.nytimes.com/2020/12/19/style/cyberpunk-2077-video-game-disaster.html
         </a>, (Consulted October 15, 2023)
     </li>
+
+<li>GOVERNMENT OF CANADA "Video Game Developer in Canada",
+        <a href="https://www.jobbank.gc.ca/marketreport/outlook-occupation/295919/ca">
+            https://www.jobbank.gc.ca/marketreport/outlook-occupation/295919/ca</a>,(Consulted November 27, 2023)
+    </li>
+    <li>
+        LOPEZ, German "Unions and Video Games", <i>New York Times</i>,
+        <a href="https://www.nytimes.com/2023/01/24/briefing/game-worker-union.html">
+            https://www.nytimes.com/2023/01/24/briefing/game-worker-union.html</a>, (Consulted December 10, 2023)
+    </li>
+    <li>
+        COMPANIES MARKET CAP,
+        <a href="https://companiesmarketcap.com/video-games/largest-video-game-companies-by-market-cap/">
+            https://companiesmarketcap.com/video-games/largest-video-game-companies-by-market-cap/</a>, (Consulted December 10, 2023)
+    </li>
+    <li>
+        WIESSER, Daniel, "Activision fired staff for using 'strong language' about remote work policy -union", <i>Reuters</i>
+        <a href="https://www.reuters.com/technology/activision-fired-staff-using-strong-language-about-remote-work-policy-union-2023-03-01/">
+            https://www.reuters.com/technology/activision-fired-staff-using-strong-language-about-remote-work-policy-union-2023-03-01/</a>, (Consulted December 11, 2023)
+    </li>
+
+<li>SHIRIN, Ghaffary, "Nearly three out of four women in computer-related jobs report discrimination in the workplace", <i>Vox</i>
+        <a href="https://www.vox.com/2018/1/9/16870120/women-discrimination-pew-research-computer-job-workplace-harassment-stem">
+            https://www.vox.com/2018/1/9/16870120/women-discrimination-pew-research-computer-job-workplace-harassment-stem</a>,(Consulted December 11, 2023)
+    </li>
  </ol>
