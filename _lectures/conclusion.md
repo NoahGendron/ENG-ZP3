@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-09-16T8:00:00+4:30
-title: Workplace Harassment
-summary: Detailed documentation on workplace harassment in the field of Computer Science.
+date: 2023-11-16T8:00:00+4:30
+title: Conclusion
+summary: Conclusion to this course
 thumbnail: /static_files/presentations/lec.jpg
 
-text: test
+text: Conclusion
 notes: /static_files/presentations/conclusion.html
 
 links: 
