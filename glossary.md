@@ -114,4 +114,9 @@ This involves the creation of a list of features decided by the <a href="#PO">pr
         <a href="https://www.vox.com/2018/1/9/16870120/women-discrimination-pew-research-computer-job-workplace-harassment-stem">
             https://www.vox.com/2018/1/9/16870120/women-discrimination-pew-research-computer-job-workplace-harassment-stem</a>,(Consulted December 11, 2023)
     </li>
+<li>GILBERT, Ben, "Activision CEO Bobby Kotick threatened to have his former assistant killed, according to a bombshell new investigation ",
+        <i>Business Insider</i>
+        <a href="https://www.businessinsider.com/activision-ceo-bobby-kotick-reportedly-threatened-former-assistant-killed-2021-11#:~:text=CEO%20Bobby%20Kotick-,Activision%20CEO%20Bobby%20Kotick%20threatened%20to%20have%20his%20former%20assistant,and%20rape%20at%20his%20company.">
+            https://www.businessinsider.com/activision-ceo-bobby-kotick-reportedly-threatened-former-assistant-killed-2021-11#:~:text=CEO%20Bobby%20Kotick-,Activision%20CEO%20Bobby%20Kotick%20threatened%20to%20have%20his%20former%20assistant,and%20rape%20at%20his%20company.</a>,(Consulted December 11, 2023)
+    </li>
  </ol>
